@@ -1,0 +1,14 @@
+"use strict";
+console.log('hello thieves');
+console.log('hello thieves');
+let age = 3;
+console.log(age);
+let firstName = 'yesenia';
+let isAdmin = true;
+let lastName = 'Sachs';
+lastName = 3;
+let students = ['Sbaita, Jay, Tez, 2, true'];
+let dog = [1, 'pitbull'];
+const small = 1;
+const medium = 2;
+const large = 3;
